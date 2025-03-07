@@ -1,6 +1,6 @@
-# ![DuoSM Logo](https://d35aaqx5ub95lt.cloudfront.net/vendor/a0ee30fa22ca3d00e9e5db913b1965b5.svg) Duolingo SM 
+# ![DuoSM Logo](https://d35aaqx5ub95lt.cloudfront.net/vendor/a0ee30fa22ca3d00e9e5db913b1965b5.svg) Duolingo Hack 
 ## Introduction
-**Duolingo SM** is a Duolingo Hack Tool, Tool that can Farm Gems, Free XP Extremely Fast, and Some Other Features Coming Soon.
+**Duolingo Hack** is a Duolingo Hack Tool, Tool that can Farm Gems, Free XP Extremely Fast, and Some Other Features Coming Soon.
 
 ## Features
 
